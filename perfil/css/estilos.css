@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(94, 151, 225);
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(55, 102, 197);
+
+
+}
+
+.listas {
+    border: 3px solid rgb(21, 61, 125);
+    /* Tamanho de largura */
+    max-width: 600px;
+    /* Centralizar*/
+    margin: auto;
+    border-radius: 40px;
+}
+
+.lista {
+    width: 50%;
+    max-width: 250px;
+    /* Tamanho de largura */
+    padding: 10px;
+    display:inline-block;
+    height: 150px;
+    
+}
+img{
+    width: 150px;
+    border: 2px solid rgb(21, 61, 125);
+    border-radius:100px;
+    
+}
